@@ -1,7 +1,6 @@
-Countdown Timer with Snow Animation
 This project is a simple countdown timer that visually represents the time remaining until a specified date or event. It uses animated circles to depict the remaining days, hours, minutes, and seconds. In addition, there's an animated background with a snow effect to give the timer a festive look.
 
-Features
+Features:
 Countdown Timer: Displays the time left until a specific date, represented by animated circles and text showing days, hours, minutes, and seconds.
 Snow Animation: An eye-catching background with falling snow created through CSS animations.
 Dynamic Circles: Circles that decrease in size as the countdown progresses, providing a visual representation of the countdown.
@@ -12,10 +11,10 @@ To use the countdown timer in your project, you need the provided HTML and CSS f
 Target Date: Change the target date in the JavaScript portion to set your countdown.
 Circle Colors: Use CSS custom properties (--clr) to adjust the colors for each countdown circle.
 Snow Effect: Modify the snow animation's speed, density, and other attributes in the CSS file.
-Contributions and Feedback
+Contributions and Feedback:
 Contributions are welcome! If you have ideas for new features, or if you encounter bugs, please submit an issue or pull request on GitHub. Feedback and suggestions are encouraged.
 
-License
+License:
 This project is licensed under the [appropriate license, e.g., MIT License]. Please refer to the LICENSE file for more information.
 
 Demo Video:
